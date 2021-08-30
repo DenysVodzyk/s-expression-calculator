@@ -17,7 +17,7 @@ Compile java files from calculator directory: C:\..\s-expression-calculator\src\
 Run program from src directory: C:\...\s-expression-calculator\src>java main.java.com.calculator.Calculator "21"
 ```
 <p align="center">
-   <img src ="readMeSource/CommandLine.PNG" width="600">
+   <img src ="readMeSource/CommandLine.png" width="600">
 </p>
 
 
@@ -37,14 +37,14 @@ Test:
 CalculatorInvalidInputTest Class - end-to-end testing of possible invalid input expressions.
 ```
 <p align="center">
-   <img src ="readMeSource/CalculatorInvalidInputTest.PNG" width="600">
+   <img src ="readMeSource/CalculatorInvalidInputTest.png" width="600">
 </p>
 
 ```
 CalculatorValidInputTest Class - end-to-end testing of possible valid input expressions.
 ```
 <p align="center">
-   <img src ="readMeSource/CalculatorValidInputTest.PNG" width="600">
+   <img src ="readMeSource/CalculatorValidInputTest.png" width="600">
 </p>
 
 
